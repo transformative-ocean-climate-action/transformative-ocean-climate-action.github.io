@@ -1,0 +1,12 @@
+---
+listing:
+  contents: research
+  fields: [title, author, categories, date, image]
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+---

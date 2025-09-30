@@ -1,0 +1,103 @@
+---
+image: images/image.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 250px
+---
+
+
+<div style="text-align: center;">
+
+Named after the Quantitative Science Studies (QSS) journal, the official open access journal of the International Society for Scientometrics and Informetrics (ISSI), the Quantitative Science Studies (QSS) Lab aims to advance knowledge on the production, dissemination and use of research.
+<br>
+
+</div>
+<h1 style="text-align: center;">Meet the Team</h1>
+<div style="height: 10px"></div>
+<div style="text-align: left;">
+<table>
+  <tr>
+    <td style="width:170px;vertical-align: top;">![](images/pmongeon.jpg){width="150px"}</td>
+    <td style="width:250px;vertical-align: top;">
+  **Philippe Mongeon**<br>
+Associate professor<br>Department of Information Science<br>Dalhousie University
+<div style="height: 10px"></div>
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://pmongeon.github.io" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/philippe-mongeon/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0003-1021-059X" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+</td>
+    <td style="width:170px;vertical-align: top;">![](images/mhare.jpeg){width="150px"}</td>
+    <td style="width:250px;vertical-align: top;">
+        **Maddie Hare**<br>
+        Doctoral Student<br>PhD Information<br>Dalhousie University
+<div style="height: 10px"></div>
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.linkedin.com/in/madelaine-h-8a98b522b/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-2123-9518" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+
+    </td>
+  </tr>
+  <tr><td style="height:"15px"><br></td></tr>
+  <tr>
+    <td style = "vertical-align: top;">![](images/gkrause.png){width="150px"}</td>
+    <td style = "vertical-align: top;">
+    **Geoff Krause**<br>
+    Doctoral Student<br>Interdisciplinary PhD<br>Dalhousie University
+    </td>
+    <td style = "vertical-align: top;">![](images/rmarjoram.jpg){width="150px"}</td>
+    <td style="width:150px;vertical-align: top;">
+    **Rebecca Marjoram**<br>
+    Master Student<br>Master of Information Program<br>Dalhousie University
+    </td>
+  </tr>
+  <tr><td style="height:"15px"><br></td></tr>
+  <tr>
+    <td style = "vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:150px;vertical-align: top;">
+    **Anas Ramdani**<br>
+    Postdoctoral Fellow<br>Department of Information Science<br>Dalhousie University
+    </td>
+    <td style = "vertical-align: top;">![](images/priddle.jpg){width="150px"}</td>
+    <td style="width:150px;vertical-align: top;">
+    **Poppy Riddle**<br>
+    Doctoral Student<br>PhD Information<br>Dalhousie University    
+<div style="height: 10px"></div>
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://github.com/poppy-nicolette/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-github" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-7862-7848" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+  <tr><td style="height:"15px"><br></td></tr>
+  <tr>
+    <td style = "vertical-align: top;">![](images/rtoupin.jpg){width="150px"}</td>
+    <td style="width:150px;vertical-align: top;">
+    **Rémi Toupin**<br>
+    Postdoctoral Fellow<br>Department of Information Science<br>Dalhousie University
+    </td>
+    <td>![](images/swilson.jpg){width="150px"}</td>
+    <td style="width:150px;vertical-align: top;">
+    **Summer Wilson**<br>
+    Master Student<br>Master of Information Program<br>Dalhousie University
+    </td>
+  </tr>
+</table>
+</div>
