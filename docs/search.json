@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Quantitative Science Studies (QSS) Lab",
+    "objectID": "wp.html",
+    "href": "wp.html",
+    "title": "Work Packages",
     "section": "",
-    "text": "Measuring Engagement with Marine Environmental Science Grey Literature: A Case Study of GESAMP\n\n\n\nScience-policy interface\n\nKnowledge mobilization\n\nAltmetrics\n\n\n\n\n\n\nSep 2, 2025\n\n\nRémi Toupin, Madelaine Hare, Kellie Dalton, Geoff Krause, Valeriia Moroz, Philippe Mongeon\n\n\n\n\n\n\n\n\n\n\n\n\nIdentifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report\n\n\n\nKnowledge Mobilization\n\nOceans\n\nScience‐Policy Interface\n\n\n\n\n\n\nJan 21, 2025\n\n\nRémi Toupin, Geoff Krause, Poppy Riddle, Madelaine Hare, Philippe Mongeon\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/2025-toupin-indentifying/index.html",
-    "href": "research/2025-toupin-indentifying/index.html",
-    "title": "Identifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report",
-    "section": "",
-    "text": "Citation\nToupin, R., Krause, G., Riddle, P., Hare, M., & Mongeon, P. (2025). Identifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report. Ocean and Society, 2, Article 8924. https://doi.org/10.17645/oas.8924\n\n\nAbstract\nIn recent years, ocean governance has called for strategic action and science‐informed policy to work towards the sustainable development of the ocean, most notably as part of the UN Decade of Ocean Science for Sustainable Development (2021–2030). This common framework identifies the integration of scientific knowledge in governance as a key process to deliver solutions responding to the current challenges, opportunities, and transformations posed by global change in the oceans. This article presents a methodological approach for identifying ocean‐related research outputs and documenting research‐based knowledge integration in documents that inform ocean governance. Specifically, this study builds on an analysis of the references included in the UN Second World Ocean Assessment report to (a) identify and describe the research outputs cited in the distinct chapters of the report, (b) identify research outputs relevant to ocean governance through the analysis of citations from and to references included in the UN Second World Ocean Assessment, (c) compare both datasets to examine the position of the literature cited in the report within a broader ecosystem of ocean‐related research, and (d) present a method to identify topically relevant research that could be integrated in future ocean assessments. Our findings show distinct referencing practices across chapters and expert groups and a higher reliance on high‐profile sources in the report compared to a broader dataset of ocean research outputs. Moreover, this study highlights an innovative approach to identifying ocean research based on knowledge syntheses and considers discussion points about integrating research‐based knowledge in documents informing ocean governance.\n\n\nKey figures\n\n\n\nFigure 3. Results of the manual sampling of articles of all 24 possible combinations of criteria for ocean relation matching the documents in the full dataset. Notes: CdCaKwJo means that these papers were cited by the core dataset, had a Ca with papers from the core dataset, including at least one relevant keywords from the list established for this study, and were published in a journal related to oceans; each bar represents the % of papers (out of 100 for each category) that were coded based on the relation of the paper to oceans; the numbers on the right indicate the number of papers fitting a given combination as well as the performance score of the combination to capture relevant ocean research outputs."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Quantitative Science Studies (QSS) Lab",
-    "section": "",
-    "text": "Transforming Climate Action research program\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nMaddie Hare\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nMeet the Team\n",
-    "section": "",
-    "text": "Named after the Quantitative Science Studies (QSS) journal, the official open access journal of the International Society for Scientometrics and Informetrics (ISSI), the Quantitative Science Studies (QSS) Lab aims to advance knowledge on the production, dissemination and use of research. \n\n\nMeet the Team\n\n\n\n\n\n\n\n\n\n\nPhilippe Mongeon Associate professorDepartment of Information ScienceDalhousie University\n\n\n\n        \n\n\n\n\n\n\nMaddie Hare Doctoral StudentPhD InformationDalhousie University\n\n\n\n     \n\n\n\n\n\n\n\n\n\n\n\nGeoff Krause Doctoral StudentInterdisciplinary PhDDalhousie University\n\n\n\n\n\nRebecca Marjoram Master StudentMaster of Information ProgramDalhousie University\n\n\n\n\n\n\n\n\n\n\nAnas Ramdani Postdoctoral FellowDepartment of Information ScienceDalhousie University\n\n\n\n\n\nPoppy Riddle Doctoral StudentPhD InformationDalhousie University\n\n\n\n     \n\n\n\n\n\n\n\n\n\n\n\nRémi Toupin Postdoctoral FellowDepartment of Information ScienceDalhousie University\n\n\n\n\n\nSummer Wilson Master StudentMaster of Information ProgramDalhousie University"
-  },
-  {
-    "objectID": "posts/2024-10-13-TCA/index.html",
-    "href": "posts/2024-10-13-TCA/index.html",
-    "title": "Transforming Climate Action research program",
-    "section": "",
-    "text": "Dalhousie University’s Ocean Frontier Institute launched the Transforming Climate Action (TCA) research program in 2023. Philippe Mongeon, one of the leads of Cluster 3.2, and members of the QSSLab will be involved in four work packages, in collaboration with Dalhousie’s Faculty of Computer Science and the Université du Québec à Rimouski.\nWork Package 1: Oceans and climate: identifying knowledge and its structure\nThis work package has two main objectives: to identify scholarly literature on the role of oceans in relation to climate and to analyze the structure and evolution of this research over time using research clusters. It aims to build a global overview of ocean-climate research, supporting both internal projects and informing broader climate policy, like the IPCC reports. Through hierarchical clustering and machine learning, the project will classify knowledge within this corpus, creating tools for future research. Collaboration between Dalhousie University’s Information Science and Computer Science faculties will help ensure the development of a robust knowledge navigation and classification system.\nWork Package 2: The evolution of scholarly and public attention toward ocean-climate research\nThis work package builds on WP1 by examining how ocean-climate research is mobilized across different platforms, including scientific literature, social media, news, policy, and educational materials. Its aim is to determine who engages with this knowledge, the contexts of its citations, and how different geographical or topical clusters generate attention. By mapping knowledge flows, this study will identify which research is visible to key organizations like NGOs and explore how knowledge is disseminated across different audiences. The project will also develop visualization tools to track the movement of knowledge and provide insights into how external events, such as COVID-19, affect knowledge structures, feeding into WP3’s analysis of the drivers of knowledge dissemination.\nWork Package 3: The shaping of the ocean-climate research landscape\nWork Package 3 focuses on understanding the evolution of ocean-climate research by analyzing knowledge flows over time, using bibliometrics and generative AI. It aims to identify how world events, political actions, and social shifts impact the production and dissemination of research, while also exploring hidden causalities in the knowledge landscape. The project will develop tools to assess gaps in the current knowledge base, predict future research directions, and generate targeted actions to address under-explored areas, with an emphasis on equity and inclusion. Generative AI will also be leveraged to hypothesize future knowledge flows, shape research initiatives, and support multi-language accessibility.\nWork Package 4: Mapping curriculum and the scientific landscape\nThis work package builds on previous efforts to connect ocean and climate science with educational syllabi, focusing on Atlantic Canadian secondary and post-secondary educators. The project aims to analyze the gap between scientific literature and its representation in regional curricula, understand who is and isn’t represented in the scientific works used in education, and develop tools that help educators access relevant research. Through bibliometric analysis and information science methodologies, the project seeks to empower educators to effectively teach ocean-climate science, with particular emphasis on marginalized communities. Collaboration between Dalhousie University and UQAR will ensure interdisciplinary expertise, community partnerships, and the development of participatory, user-friendly tools.\nTo learn more about different research clusters within TCA and the program’s expected impact, visit the Ocean Frontier Institutes’ website."
+    "text": "WP1 -\nAdd description here\n\n\nWP2 -\nAdd description here\n\n\nWP3 -\nAdd description here\n\n\nWP4 -\nAdd description here\n\n\nWP5 -\nAdd description here"
   },
   {
     "objectID": "research/2025-toupin-gesamp/index.html",
@@ -112,45 +84,38 @@
     "text": "Concluding remarks\nThis study underscores the growing relevance and reach of grey literature produced by environmental scientific advisory bodies, using GESAMP as a compelling case study. Despite the inherent challenges in tracking and quantifying the impact of non-indexed outputs, our multi-source approach reveals a clear upward trajectory in the visibility and use of GESAMP reports across scholarly, policy, and media landscapes. The increasing citation of these reports in academic literature—particularly in fields related to marine pollution and ocean governance—demonstrates their value in shaping scientific discourse. Moreover, the engagement from national and regional environmental organizations highlights the broader impact of GESAMP’s work beyond its sponsoring institutions.\nThese findings underscore the importance of developing robust mechanisms to monitor and assess the impact of grey literature, particularly as it continues to inform critical environmental decision-making. As global challenges intensify, the ability of expert groups like GESAMP to synthesize knowledge and disseminate it effectively to diverse audiences will remain essential. Future research should explore additional platforms and metrics to capture the nuanced pathways through which such reports contribute to policy development, public awareness, and scientific progress. Strengthening the visibility and traceability of grey literature will ultimately enhance its utility and legitimacy in the environmental knowledge ecosystem."
   },
   {
-    "objectID": "wp.html",
-    "href": "wp.html",
-    "title": "Work Packages",
+    "objectID": "posts/2024-10-13-TCA/index.html",
+    "href": "posts/2024-10-13-TCA/index.html",
+    "title": "Transforming Climate Action research program",
     "section": "",
-    "text": "WP1 -\nAdd description here\n\n\nWP2 -\nAdd description here\n\n\nWP3 -\nAdd description here\n\n\nWP4 -\nAdd description here\n\n\nWP5 -\nAdd description here"
+    "text": "Dalhousie University’s Ocean Frontier Institute launched the Transforming Climate Action (TCA) research program in 2023. Philippe Mongeon, one of the leads of Cluster 3.2, and members of the QSSLab will be involved in four work packages, in collaboration with Dalhousie’s Faculty of Computer Science and the Université du Québec à Rimouski.\nWork Package 1: Oceans and climate: identifying knowledge and its structure\nThis work package has two main objectives: to identify scholarly literature on the role of oceans in relation to climate and to analyze the structure and evolution of this research over time using research clusters. It aims to build a global overview of ocean-climate research, supporting both internal projects and informing broader climate policy, like the IPCC reports. Through hierarchical clustering and machine learning, the project will classify knowledge within this corpus, creating tools for future research. Collaboration between Dalhousie University’s Information Science and Computer Science faculties will help ensure the development of a robust knowledge navigation and classification system.\nWork Package 2: The evolution of scholarly and public attention toward ocean-climate research\nThis work package builds on WP1 by examining how ocean-climate research is mobilized across different platforms, including scientific literature, social media, news, policy, and educational materials. Its aim is to determine who engages with this knowledge, the contexts of its citations, and how different geographical or topical clusters generate attention. By mapping knowledge flows, this study will identify which research is visible to key organizations like NGOs and explore how knowledge is disseminated across different audiences. The project will also develop visualization tools to track the movement of knowledge and provide insights into how external events, such as COVID-19, affect knowledge structures, feeding into WP3’s analysis of the drivers of knowledge dissemination.\nWork Package 3: The shaping of the ocean-climate research landscape\nWork Package 3 focuses on understanding the evolution of ocean-climate research by analyzing knowledge flows over time, using bibliometrics and generative AI. It aims to identify how world events, political actions, and social shifts impact the production and dissemination of research, while also exploring hidden causalities in the knowledge landscape. The project will develop tools to assess gaps in the current knowledge base, predict future research directions, and generate targeted actions to address under-explored areas, with an emphasis on equity and inclusion. Generative AI will also be leveraged to hypothesize future knowledge flows, shape research initiatives, and support multi-language accessibility.\nWork Package 4: Mapping curriculum and the scientific landscape\nThis work package builds on previous efforts to connect ocean and climate science with educational syllabi, focusing on Atlantic Canadian secondary and post-secondary educators. The project aims to analyze the gap between scientific literature and its representation in regional curricula, understand who is and isn’t represented in the scientific works used in education, and develop tools that help educators access relevant research. Through bibliometric analysis and information science methodologies, the project seeks to empower educators to effectively teach ocean-climate science, with particular emphasis on marginalized communities. Collaboration between Dalhousie University and UQAR will ensure interdisciplinary expertise, community partnerships, and the development of participatory, user-friendly tools.\nTo learn more about different research clusters within TCA and the program’s expected impact, visit the Ocean Frontier Institutes’ website."
   },
   {
-    "objectID": "wp.html#wp1--",
-    "href": "wp.html#wp1--",
-    "title": "Work Packages",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nMeet the Team\n",
     "section": "",
-    "text": "Add description here"
+    "text": "Named after the Quantitative Science Studies (QSS) journal, the official open access journal of the International Society for Scientometrics and Informetrics (ISSI), the Quantitative Science Studies (QSS) Lab aims to advance knowledge on the production, dissemination and use of research. \n\n\nMeet the Team\n\n\n\n\n\n\n\n\n\n\nPhilippe Mongeon Associate professorDepartment of Information ScienceDalhousie University\n\n\n\n        \n\n\n\n\n\n\nMaddie Hare Doctoral StudentPhD InformationDalhousie University\n\n\n\n     \n\n\n\n\n\n\n\n\n\n\n\nGeoff Krause Doctoral StudentInterdisciplinary PhDDalhousie University\n\n\n\n\n\nRebecca Marjoram Master StudentMaster of Information ProgramDalhousie University\n\n\n\n\n\n\n\n\n\n\nAnas Ramdani Postdoctoral FellowDepartment of Information ScienceDalhousie University\n\n\n\n\n\nPoppy Riddle Doctoral StudentPhD InformationDalhousie University\n\n\n\n     \n\n\n\n\n\n\n\n\n\n\n\nRémi Toupin Postdoctoral FellowDepartment of Information ScienceDalhousie University\n\n\n\n\n\nSummer Wilson Master StudentMaster of Information ProgramDalhousie University"
   },
   {
-    "objectID": "wp.html#wp2--",
-    "href": "wp.html#wp2--",
-    "title": "Work Packages",
-    "section": "WP2 -",
-    "text": "WP2 -\nAdd description here"
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Towards Transformative Ocean-Climate Action and Policy",
+    "section": "",
+    "text": "Transforming Climate Action research program\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nMaddie Hare\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "wp.html#wp3--",
-    "href": "wp.html#wp3--",
-    "title": "Work Packages",
-    "section": "WP3 -",
-    "text": "WP3 -\nAdd description here"
+    "objectID": "research/2025-toupin-indentifying/index.html",
+    "href": "research/2025-toupin-indentifying/index.html",
+    "title": "Identifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report",
+    "section": "",
+    "text": "Citation\nToupin, R., Krause, G., Riddle, P., Hare, M., & Mongeon, P. (2025). Identifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report. Ocean and Society, 2, Article 8924. https://doi.org/10.17645/oas.8924\n\n\nAbstract\nIn recent years, ocean governance has called for strategic action and science‐informed policy to work towards the sustainable development of the ocean, most notably as part of the UN Decade of Ocean Science for Sustainable Development (2021–2030). This common framework identifies the integration of scientific knowledge in governance as a key process to deliver solutions responding to the current challenges, opportunities, and transformations posed by global change in the oceans. This article presents a methodological approach for identifying ocean‐related research outputs and documenting research‐based knowledge integration in documents that inform ocean governance. Specifically, this study builds on an analysis of the references included in the UN Second World Ocean Assessment report to (a) identify and describe the research outputs cited in the distinct chapters of the report, (b) identify research outputs relevant to ocean governance through the analysis of citations from and to references included in the UN Second World Ocean Assessment, (c) compare both datasets to examine the position of the literature cited in the report within a broader ecosystem of ocean‐related research, and (d) present a method to identify topically relevant research that could be integrated in future ocean assessments. Our findings show distinct referencing practices across chapters and expert groups and a higher reliance on high‐profile sources in the report compared to a broader dataset of ocean research outputs. Moreover, this study highlights an innovative approach to identifying ocean research based on knowledge syntheses and considers discussion points about integrating research‐based knowledge in documents informing ocean governance.\n\n\nKey figures\n\n\n\nFigure 3. Results of the manual sampling of articles of all 24 possible combinations of criteria for ocean relation matching the documents in the full dataset. Notes: CdCaKwJo means that these papers were cited by the core dataset, had a Ca with papers from the core dataset, including at least one relevant keywords from the list established for this study, and were published in a journal related to oceans; each bar represents the % of papers (out of 100 for each category) that were coded based on the relation of the paper to oceans; the numbers on the right indicate the number of papers fitting a given combination as well as the performance score of the combination to capture relevant ocean research outputs."
   },
   {
-    "objectID": "wp.html#wp4--",
-    "href": "wp.html#wp4--",
-    "title": "Work Packages",
-    "section": "WP4 -",
-    "text": "WP4 -\nAdd description here"
-  },
-  {
-    "objectID": "wp.html#wp5--",
-    "href": "wp.html#wp5--",
-    "title": "Work Packages",
-    "section": "WP5 -",
-    "text": "WP5 -\nAdd description here"
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Towards Transformative Ocean-Climate Action and Policy",
+    "section": "",
+    "text": "Measuring Engagement with Marine Environmental Science Grey Literature: A Case Study of GESAMP\n\n\n\nScience-policy interface\n\nKnowledge mobilization\n\nAltmetrics\n\n\n\n\n\n\nSep 2, 2025\n\n\nRémi Toupin, Madelaine Hare, Kellie Dalton, Geoff Krause, Valeriia Moroz, Philippe Mongeon\n\n\n\n\n\n\n\n\n\n\n\n\nIdentifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report\n\n\n\nKnowledge Mobilization\n\nOceans\n\nScience‐Policy Interface\n\n\n\n\n\n\nJan 21, 2025\n\n\nRémi Toupin, Geoff Krause, Poppy Riddle, Madelaine Hare, Philippe Mongeon\n\n\n\n\n\nNo matching items"
   }
 ]
