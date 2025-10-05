@@ -6,14 +6,16 @@ website:
   title: "Towards Transformative Ocean-Climate Action and Policy"
   navbar:
     right:
-      - href: index.qmd
-        text: About
-      - href: wp.qmd
-        text: "Work Packages"
-      - href: research.qmd
-        text: Research
-      - href: news.qmd
-        text: News
+      - text: Home
+        href: index.qmd
+      - text: Team
+        href: team.qmd
+      - text: "Work Packages"
+        href: wp.qmd
+      - text: Research
+        href: research.qmd
+      - text: News
+        href: news.qmd
 format:
   html:
     toc: true

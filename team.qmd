@@ -1,0 +1,52 @@
+---
+format: html
+toc: false
+---
+
+# Meet the team
+
+<table>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/pmongeon.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Philippe Mongeon** <br>
+      Associate professor <br>
+      Department of Information Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://pmongeon.github.io" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/philippe-mongeon/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0003-1021-059X" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+  <tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/rtoupin2.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Rémi Toupin** <br>
+      Postdoctoral Fellow <br>
+      Department of Information Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.linkedin.com/in/remi-toupin-897405a0/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-6765-0380" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+  <tr><td style="height:"10px"><br></td></tr>
+</table>
