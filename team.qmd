@@ -48,5 +48,144 @@ toc: false
 </div>
     </td>
   </tr>
-  <tr><td style="height:"10px"><br></td></tr>
+  
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Dr. Stephen Brooks** <br>
+      Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/lzhong.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Zaiyang Zhong (Levy)** <br>
+      Ph.D. Student <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.linkedin.com/in/zaiyang-zhong-38443b1b9/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/corian.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Colin Orian** <br>
+      Ph.D. Student <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  
+
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://github.com/Colin-Orian" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-githhub" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+    <a href="https://www.researchgate.net/profile/Colin-Orian" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-researchgate" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-5013-4387" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/colin-orian-a22a4a155" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+
+</div>
+    </td>
+  </tr>
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Dr. Stephen Brooks** <br>
+      Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Dr. Stephen Brooks** <br>
+      Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Dr. Stephen Brooks** <br>
+      Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Dr. Stephen Brooks** <br>
+      Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+  
+  
 </table>
