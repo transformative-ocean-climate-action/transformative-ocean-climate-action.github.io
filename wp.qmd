@@ -12,6 +12,12 @@ toc-depth: 3
 -   Boris Worm (Biology and Ocean Literacy)
 -   Joseph Malloch (Computer Science)
 -   Kristin Poduska (Physics)
+-   Isabelle Arseneau (Education)
+-   Marie-Hélène Ouellet D’Amours (Education)
+-   Kerri Mc Pherson (Education)
+-   Caroline Damboise (Education)
+-   Camille Bordet (Education)
+-   Jérôme Train (Education)
 
 #### Summary
 

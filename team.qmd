@@ -6,6 +6,185 @@ toc: false
 # Meet the team
 
 <table>
+
+<!-- Isabelle Arseneau -->
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/iarseneau.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Isabelle Arseneau** <br>
+      Professeure <br>
+      Unité départementale des sciences de l'éducation<br>
+      Université du Québec à Rimouski	  
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+
+
+<!-- Stephen  Brooks -->
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Stephen Brooks** <br>
+      Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+<!-- Camille Bordet  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/cbordet.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Camille Bordet** <br>
+      Étudiante au doctorat <br> 
+ 	  Unité départementale des sciences de l'éducation<br>
+      Université du Québec à Rimouski
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+  
+
+  
+<!-- Caroline Damboise  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/cdamboise.webp){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Caroline Damboise** <br>
+      Professeure <br>
+      Unité départementale des sciences de l'éducation<br>
+      Université du Québec à Rimouski	  
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+  
+<!-- Anne Fauré  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Anne Fauré** <br>
+      Professeure <br>
+	    Unité départementale des sciences de la gestion <br>
+      Université du Québec à Rimouski	  	    
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+
+<!-- Geoff Krause  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/gkrause.png){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Geoff Krause** <br>
+      Ph.D. Candidate <br>
+	  Department of Information Science <br>
+	  Dalhousie University <br>
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  
+
+
+<!-- Alexandre Legault  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Alexandre Legault** <br>
+      Masters Student <br>
+	    Department of Information Science <br>
+	    Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+  
+
+
+  
+<!-- Bertrum MacDonald  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Bertrum MacDonald** <br>
+      Professor Emeritus<br>
+	  Department Information Science <br>
+	  Dalhousie University 
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+
+</div>
+    </td>
+  </tr>
+
+<!-- Joseph Malloch -->
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/jmalloch.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Joseph Malloch** <br>
+      Associate Professor <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://josephmalloch.wordpress.com/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>
+
+
+<!-- Kerri McPherson  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/kmcpherson.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Kerri McPherson** <br>
+      Science consultant<br>
+	  Department of Education and Early Childhood Development<br>
+      Nova Scotia
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+  
+<!-- Philippe Mongeon -->
+<tr><td style="height:"10px"><br></td></tr>
   <tr>
     <td style="width:20%;vertical-align: top;">![](images/pmongeon.jpg){width="150px"}</td>
     <td style="width:15px"></td>
@@ -28,62 +207,24 @@ toc: false
 </div>
     </td>
   </tr>
-  <tr><td style="height:"10px"><br></td></tr>
+  
+<!-- Émilie Morin  -->
+<tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/rtoupin2.JPG){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
-      **Rémi Toupin** <br>
-      Postdoctoral Fellow <br>
-      Department of Information Science<br>
-      Dalhousie University
+      **Émilie Morin** <br>
+      Professeure <br>
+      Unité départementale des sciences de l'éducation<br>
+      Université du Québec à Rimouski	  	    
   <div style="height: 10px"></div>
   <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://www.linkedin.com/in/remi-toupin-897405a0/" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://orcid.org/0000-0001-6765-0380" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
 </div>
     </td>
   </tr>
   
-<tr><td style="height:"10px"><br></td></tr>
-  <tr>
-    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
-    <td style="width:15px"></td>
-    <td style="width:80%;vertical-align: top;"> 
-      **Dr. Stephen Brooks** <br>
-      Professor <br>
-      Faculty of Computer Science<br>
-      Dalhousie University
-  <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-</div>
-    </td>
-  </tr>
-
-<tr><td style="height:"10px"><br></td></tr>
-  <tr>
-    <td style="width:20%;vertical-align: top;">![](images/lzhong.jpg){width="150px"}</td>
-    <td style="width:15px"></td>
-    <td style="width:80%;vertical-align: top;"> 
-      **Zaiyang Zhong (Levy)** <br>
-      Ph.D. Student <br>
-      Faculty of Computer Science<br>
-      Dalhousie University
-  <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://www.linkedin.com/in/zaiyang-zhong-38443b1b9/" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-</div>
-    </td>
-  </tr>
+<!-- Colin Orian -->
 
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
@@ -115,77 +256,197 @@ toc: false
     </td>
   </tr>
 
+
+<!-- Marie-Hélène Ouellet D'Amours  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/mhouelletdamours.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
-      **Dr. Stephen Brooks** <br>
-      Professor <br>
-      Faculty of Computer Science<br>
-      Dalhousie University
+      **Marie-Hélène Ouellet D'Amours** <br>
+      Coordonnatrice de projets de recherche <br>
+	  Unité départementale des sciences de l'éducation<br>
+      Université du Québec à Rimouski
   <div style="height: 10px"></div>
   <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
+</div>
+    </td>
+  </tr>
+  
+  
+<!-- Kristin Poduska  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/kpoduska.png){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Kristin Poduska** <br>
+      Professor <br>
+	  Department of Physics & Physical Oceanography <br>
+	  Memorial University 
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://kpoduska.github.io/PoduskaLab/" target="_blank" style="text-decoration: none;">
     <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
   </a>
+  <a href="https://www.linkedin.com/in/poduska/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0003-4495-0668" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+
+<!-- Derek Reilly  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Derek Reilly** <br>
+      Professor <br>
+	  Faculty of Computer Science <br>
+	  Dalhousie University 
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
 </div>
     </td>
   </tr>
 
+<!-- Poppy Riddle  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/priddle.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
-      **Dr. Stephen Brooks** <br>
-      Professor <br>
-      Faculty of Computer Science<br>
-      Dalhousie University
+      **Popy Riddle** <br>
+      Ph.D. Candidate <br>
+	  Department of Information Science <br>
+	  Dalhousie University
   <div style="height: 10px"></div>
   <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
 </div>
     </td>
   </tr>
 
-<tr><td style="height:"10px"><br></td></tr>
-  <tr>
-    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
-    <td style="width:15px"></td>
-    <td style="width:80%;vertical-align: top;"> 
-      **Dr. Stephen Brooks** <br>
-      Professor <br>
-      Faculty of Computer Science<br>
-      Dalhousie University
-  <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-</div>
-    </td>
-  </tr>
+<!-- Geneviève Therriault -->
 
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/sbrooks.JPG){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/gtherriault.png){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
-      **Dr. Stephen Brooks** <br>
-      Professor <br>
-      Faculty of Computer Science<br>
+      **Geneviève Therriault** <br>
+      Professeure <br>
+      Unité départementale des sciences de l'éducation<br>
+      Université du Québec à Rimouski
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.uqar.ca/recherche/unites-de-recherche/chaire-en-education-a-lenvironnement-et-au-developpement-durable-uqar-desjardins/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>  
+  <a href="https://www.facebook.com/ChaireEEDD" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-facebook" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.instagram.com/chaire_eedd_uqar/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-instagram" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+
+</div>
+    </td>
+  </tr>
+  
+
+<!-- Rémi Toupin -->
+
+  <tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/rtoupin2.JPG){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Rémi Toupin** <br>
+      Postdoctoral Fellow <br>
+      Department of Information Science<br>
       Dalhousie University
   <div style="height: 10px"></div>
   <div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://web.cs.dal.ca/~sbrooks/" target="_blank" style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  <a href="https://www.linkedin.com/in/remi-toupin-897405a0/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-6765-0380" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
   </a>
 </div>
     </td>
   </tr>
   
+<!-- Sandra Toze  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Sandra Toze** <br>
+      Associate Professor <br>
+	  Department of Information Science <br>
+	  Dalhousie University	
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+  
+<!-- Jérôme Train  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/jtrain.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Jérôme Train** <br>
+      Étudiant au doctorat <br> 
+	  Centre de recherche interuniversitaire sur la formation et la profession enseignante<br>
+      Université du Québec en Outaouais
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+  
+<!-- Rina Wehbe  -->
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Rina Wehbe** <br>
+      Assistant Professor <br>
+	  Faculty of Computer Science <br>
+	  Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+</div>
+    </td>
+  </tr>
+
+<!-- Levy Zhong -->
+
+<tr><td style="height:"10px"><br></td></tr>
+  <tr>
+    <td style="width:20%;vertical-align: top;">![](images/lzhong.jpg){width="150px"}</td>
+    <td style="width:15px"></td>
+    <td style="width:80%;vertical-align: top;"> 
+      **Zaiyang Zhong (Levy)** <br>
+      Ph.D. Student <br>
+      Faculty of Computer Science<br>
+      Dalhousie University
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.linkedin.com/in/zaiyang-zhong-38443b1b9/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
+    </td>
+  </tr>  
+
+
   
 </table>
