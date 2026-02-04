@@ -12,10 +12,8 @@ website:
         href: team.qmd
       - text: "Work Packages"
         href: wp.qmd
-      - text: Research
-        href: research.qmd
-      - text: News
-        href: news.qmd
+      - text: Publications
+        href: publications.qmd
 format:
   html:
     toc: true

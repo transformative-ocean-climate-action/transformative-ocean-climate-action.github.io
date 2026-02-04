@@ -1,14 +1,8 @@
 [
   {
-    "listing": "/research.html",
+    "listing": "/publications.html",
     "items": [
-      "/research/2025-toupin-indentifying/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2024-10-13-TCA/index.html"
+      "/publications/2025-toupin-indentifying/index.html"
     ]
   }
 ]
