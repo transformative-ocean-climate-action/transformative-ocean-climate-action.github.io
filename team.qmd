@@ -218,11 +218,21 @@ toc: false
       Professeure <br>
       Unité départementale des sciences de l'éducation<br>
       Université du Québec à Rimouski	  	    
-  <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
+<div style="height: 10px"></div>
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.uqar.ca/professeurs/morin-emilie/" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%A9milie-morin-3256a4a9/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.researchgate.net/profile/Emilie-Morin-2?ev=hdr_xprf" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-researchgate" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-6293-0460" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
 </div>
-    </td>
-  </tr>
   
 <!-- Colin Orian -->
 
