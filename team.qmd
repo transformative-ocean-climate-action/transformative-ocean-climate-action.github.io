@@ -211,7 +211,7 @@ toc: false
 <!-- Émilie Morin  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/emilie-morin.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
       **Émilie Morin** <br>
@@ -299,7 +299,7 @@ toc: false
 <!-- Derek Reilly  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/derek-reilly.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
       **Derek Reilly** <br>
