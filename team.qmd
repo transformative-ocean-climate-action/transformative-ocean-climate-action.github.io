@@ -146,11 +146,14 @@ toc: false
 	  Department Information Science <br>
 	  Dalhousie University 
   <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
-
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.dal.ca/faculty/management/faculty-staff/our-faculty/bertrum-macdonald.html" 
+     target="_blank" 
+     title="Dalhousie Profile"
+     style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
 </div>
-    </td>
-  </tr>
 
 <!-- Joseph Malloch -->
 
