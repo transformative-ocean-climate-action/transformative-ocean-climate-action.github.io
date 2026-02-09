@@ -121,11 +121,17 @@ toc: false
 	    Department of Information Science <br>
 	    Dalhousie University
   <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://orcid.org/0009-0009-3909-6226" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/aolegault" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://github.com/alexandre-legault" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-github" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
 </div>
-    </td>
-  </tr>
-  
 
 
   
