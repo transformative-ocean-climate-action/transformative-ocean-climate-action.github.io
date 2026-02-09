@@ -408,11 +408,34 @@ toc: false
       Associate Professor <br>
 	  Department of Information Science <br>
 	  Dalhousie University	
-  <div style="height: 10px"></div>
-  <div style="display: flex; gap: 20px; justify-content: left;">
+ <div style="height: 10px"></div>
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://www.dal.ca/faculty/management/faculty-staff/our-faculty/sandra-toze.html" 
+     target="_blank" 
+     title="Dalhousie Profile"
+     style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://ca.linkedin.com/in/sandra-toze-62912b28" 
+     target="_blank" 
+     title="LinkedIn"
+     style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://www.researchgate.net/profile/Sandra-Toze" 
+     target="_blank" 
+     title="ResearchGate"
+     style="text-decoration: none;">
+    <i class="fab fa-researchgate" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-7487-7089" 
+     target="_blank" 
+     title="ORCID"
+     style="text-decoration: none;">
+    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
 </div>
-    </td>
-  </tr>
+
   
 <!-- Jérôme Train  -->
 <tr><td style="height:"10px"><br></td></tr>
