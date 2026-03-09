@@ -2,6 +2,10 @@
 title: "Gender Disparity in Funding Rates in Double-Blind Grant Peer Review: The Case of the Villum Experiment"
 subtitle: (Article)
 date: 2025-07-03
+
+listing: false
+draft: true
+---
 author:
   - Emil Bargmann Madsen
   - Philippe Mongeon

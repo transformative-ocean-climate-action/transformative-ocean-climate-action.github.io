@@ -113,7 +113,7 @@ toc: false
 <!-- Alexandre Legault  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/alexandre-legault.jpeg){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
       **Alexandre Legault** <br>
@@ -121,24 +121,18 @@ toc: false
 	    Department of Information Science <br>
 	    Dalhousie University
   <div style="height: 10px"></div>
-<div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://orcid.org/0009-0009-3909-6226" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/aolegault" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://github.com/alexandre-legault" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-github" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
+  <div style="display: flex; gap: 20px; justify-content: left;">
 </div>
+    </td>
+  </tr>
+  
 
 
   
 <!-- Bertrum MacDonald  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/bertrum-macdonald.jpg){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
       **Bertrum MacDonald** <br>
@@ -146,14 +140,11 @@ toc: false
 	  Department Information Science <br>
 	  Dalhousie University 
   <div style="height: 10px"></div>
-<div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://www.dal.ca/faculty/management/faculty-staff/our-faculty/bertrum-macdonald.html" 
-     target="_blank" 
-     title="Dalhousie Profile"
-     style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
+  <div style="display: flex; gap: 20px; justify-content: left;">
+
 </div>
+    </td>
+  </tr>
 
 <!-- Joseph Malloch -->
 
@@ -218,30 +209,34 @@ toc: false
   </tr>
   
 <!-- Émilie Morin  -->
-<tr><td style="height:"10px"><br></td></tr>
-  <tr>
-    <td style="width:20%;vertical-align: top;">![](images/emilie-morin.jpg){width="150px"}</td>
-    <td style="width:15px"></td>
-    <td style="width:80%;vertical-align: top;"> 
-      **Émilie Morin** <br>
-      Professeure <br>
-      Unité départementale des sciences de l'éducation<br>
-      Université du Québec à Rimouski	  	    
-<div style="height: 10px"></div>
-<div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://www.uqar.ca/professeurs/morin-emilie/" target="_blank" style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/%C3%A9milie-morin-3256a4a9/" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://www.researchgate.net/profile/Emilie-Morin-2?ev=hdr_xprf" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-researchgate" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://orcid.org/0000-0002-6293-0460" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-</div>
+<tr><td style="height: 10px"><br></td></tr>
+<tr>
+  <td style="width:20%;vertical-align: top;">![](images/emilie-morin.jpg){width="150px"}</td>
+  <td style="width:15px"></td>
+  <td style="width:80%;vertical-align: top;"> 
+    **Émilie Morin** <br>
+    Professeure <br>
+    Unité départementale des sciences de l'éducation<br>
+    Université du Québec à Rimouski
+    <div style="height: 10px"></div>
+    <div style="display: flex; gap: 20px; justify-content: left;">
+      <a href="https://www.uqar.ca/professeurs/morin-emilie/" target="_blank" style="text-decoration: none;">
+        <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/%C3%A9milie-morin-3256a4a9/" target="_blank" style="text-decoration: none;">
+        <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+      </a>
+      <a href="https://www.researchgate.net/profile/Emilie-Morin-2?ev=hdr_xprf" target="_blank" style="text-decoration: none;">
+        <i class="fab fa-researchgate" style="font-size: 24px; color: #0077b5;"></i>
+      </a>
+      <a href="https://orcid.org/0000-0002-6293-0460" target="_blank" style="text-decoration: none;">
+        <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
+      </a>
+    </div>
+  </td>
+</tr>
+
+
   
 <!-- Colin Orian -->
 
@@ -401,41 +396,18 @@ toc: false
 <!-- Sandra Toze  -->
 <tr><td style="height:"10px"><br></td></tr>
   <tr>
-    <td style="width:20%;vertical-align: top;">![](images/sandra-toze.jpg){width="150px"}</td>
+    <td style="width:20%;vertical-align: top;">![](images/avatar.jpg){width="150px"}</td>
     <td style="width:15px"></td>
     <td style="width:80%;vertical-align: top;"> 
       **Sandra Toze** <br>
       Associate Professor <br>
 	  Department of Information Science <br>
 	  Dalhousie University	
- <div style="height: 10px"></div>
-<div style="display: flex; gap: 20px; justify-content: left;">
-  <a href="https://www.dal.ca/faculty/management/faculty-staff/our-faculty/sandra-toze.html" 
-     target="_blank" 
-     title="Dalhousie Profile"
-     style="text-decoration: none;">
-    <i class="fa-solid fa-globe" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://ca.linkedin.com/in/sandra-toze-62912b28" 
-     target="_blank" 
-     title="LinkedIn"
-     style="text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://www.researchgate.net/profile/Sandra-Toze" 
-     target="_blank" 
-     title="ResearchGate"
-     style="text-decoration: none;">
-    <i class="fab fa-researchgate" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
-  <a href="https://orcid.org/0000-0002-7487-7089" 
-     target="_blank" 
-     title="ORCID"
-     style="text-decoration: none;">
-    <i class="fab fa-orcid" style="font-size: 24px; color: #0077b5;"></i>
-  </a>
+  <div style="height: 10px"></div>
+  <div style="display: flex; gap: 20px; justify-content: left;">
 </div>
-
+    </td>
+  </tr>
   
 <!-- Jérôme Train  -->
 <tr><td style="height:"10px"><br></td></tr>
