@@ -57,7 +57,7 @@ execute:
 editor_options: 
   chunk_output_type: inline
   
-draft: true
+draft: false
 ---
 
 # Abstract
