@@ -68,6 +68,6 @@ Les changements climatiques et les projets de développement économique ont des
 
 # Key figures
 
-![Figure 1. A one-pager highlighting the current Transforming Climate Action (WP3, Cluster 3.2) research project "Agency and Public Action" taking place at Université du Québec à Rimouski](images/OnePager-Actionpublique_Anglais.pdf){fig-align="center" width="700"}
+![Figure 1. A one-pager highlighting the current Transforming Climate Action (WP3, Cluster 3.2) research project "Agency and Public Action" taking place at Université du Québec à Rimouski](images/OnePager-Actionpublique_Anglais.pdf){fig-align="center" width="100%" height="800"}
 
-![Figure 2. Une fiche synthèse présentant le project de recherche actuel « Transformer l’action pour le climat » (WP3, Cluster 3.2) intitulé « Pouvoir agir et action publique » mené à l'Université du Québec à Rimouski (UQAR).](images/Onepager-Actionpublique_Francais.pdf){fig-align="center" width="700"}
+![Figure 2. Une fiche synthèse présentant le project de recherche actuel « Transformer l’action pour le climat » (WP3, Cluster 3.2) intitulé « Pouvoir agir et action publique » mené à l'Université du Québec à Rimouski (UQAR).](images/Onepager-Actionpublique_Francais.pdf){fig-align="center" width="100%" height="800"}
